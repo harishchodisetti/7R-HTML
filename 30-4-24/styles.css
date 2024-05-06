@@ -1,0 +1,17 @@
+h1{
+    background-color:royalblue;
+    color:brown;
+    display:inline;
+
+
+}
+p{
+    background-color: black;
+    color:red;
+}
+a{
+    display:block;
+    background-color:aqua;
+    color:antiquewhite;
+   
+}
